@@ -1,4 +1,4 @@
-# LAC_Hackathon
+# springbootBASIC
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/synchrotechhackathon/lac_hackathon.git
+git remote add origin https://gitlab.com/XeviaBCD28/springbootbasic.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/synchrotechhackathon/lac_hackathon/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/XeviaBCD28/springbootbasic/-/settings/integrations)
 
 ## Collaborate with your team
 

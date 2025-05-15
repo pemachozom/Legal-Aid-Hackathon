@@ -1,0 +1,76 @@
+/* navbar.css */
+nav {
+  /* background-color: #333; */
+  background-color: transparent;
+  padding: 0.5rem 1rem;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  left: 10%;
+    /* or fixed, depending on your design */
+    z-index: 2;
+    /* Make sure this is higher than the form container */
+    width: 80%;
+    /* Ensures it stretches across the entire width */
+    background-color: transparent;
+    /* Optional: Adds a semi-transparent background */
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ 
+
+.navigation .logo {
+ 
+  height: 50px;
+}
+
+.navigation ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  margin-left: auto;
+  margin-right: 20px;
+}
+
+.navigation ul li {
+  margin-left: 20px;
+}
+
+.navigation ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+.navigation ul li a:hover {
+  color: #ddd;
+}
+
+.navigation div {
+  display: flex;
+  align-items: center;
+}
+
+.navigation div button {
+  background-color: #F49200;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  margin-left: 20px;
+  cursor: pointer;
+   transition: background-color 0.3s;
+}
+
+.navigation div button:hover {
+  background-color: #ffffff;
+  color: #F49200;
+}

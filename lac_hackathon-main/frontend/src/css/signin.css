@@ -1,0 +1,125 @@
+    .signin {
+        background-image: url('../images/loginbg.png');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100vh;
+        position: relative;
+      bottom: 72px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+    h2 {
+        color: white;
+    }
+
+    .form {
+        position: relative;
+        background: rgba(73, 73, 73, 0.6);
+        padding: 30px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        width: 450px;
+        height: 60vh;
+        text-align: center;
+        z-index: 1;
+    }
+
+    .corner {
+        position: absolute;
+        width: 90px;
+        height: 90px;
+    }
+
+    .top-left {
+        top: 0;
+        left: 0;
+    }
+
+    .top-right {
+        top: 0;
+        right: 0;
+    }
+
+    .bottom-left {
+        top: 536px;
+        bottom: 0;
+        left: 0;
+    }
+
+    .bottom-right {
+        top: 536px;
+        bottom: 0;
+        right: 0;
+    }
+
+    /* Align labels to the left of input fields */
+    .input-group {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        margin-bottom: 15px;
+        width: 80%;
+        position: relative;
+        left: 13.8%;
+    }
+
+    .input-group label {
+        margin-bottom: 5px;
+        font-size: 17px;
+        color: #ffffff;
+    }
+
+    .input-group input {
+        width: 90%;
+        height: 1.3cm;
+        padding: 8px;
+        border-radius: 4px;
+        border: 1px solid #ddd;
+        font-size: 14px;
+    }
+
+    .login-btn {
+        width: 72%;
+        height: 1.5cm;
+        padding: 10px;
+        border: none;
+        border-radius: 4px;
+        color: white;
+        font-size: 16px;
+        cursor: pointer;
+        background-color: #F49200;
+    }
+
+    .form-footer {
+        margin-top: 20px;
+    }
+
+    .forgot-password-link,
+    .signup-link a {
+        text-decoration: none;
+        font-size: 14px;
+        color: white;
+        font-size: 20px;
+    }
+
+    .signup-link {
+        margin-top: 15px;
+        color: white;
+    }
+
+    .signup-link button {
+        border: none;
+        font-size: 17px;
+        color: white;
+        cursor: pointer;
+        width: 72%;
+        height: 1.2cm;
+        background-color: #F49200;
+    }
+
+    
