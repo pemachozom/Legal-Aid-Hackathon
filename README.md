@@ -34,12 +34,19 @@ We designed an intuitive and inclusive user interface to support all users, espe
 ## 🧑‍💻 Team & Track
 
 - **Team:** SynchroTech
+  
   Members:
+  
   Pema Chozom
+  
   Bidash Gurung
+  
   Asseh Nepal
+  
   Jigme Namgyal
-  Tashi   
+  
+  Tashi
+    
 - **Track:** LegalTech – Digital Justice Access  
 - **Event:** **UNDP Legal Aid Hackathon 2024** (72 hours)
 
