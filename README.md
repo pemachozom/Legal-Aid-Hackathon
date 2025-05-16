@@ -30,7 +30,13 @@ We designed an intuitive and inclusive user interface to support all users, espe
 - Planning for integration with Node.js and MongoDB (future implementation)
 
 ---
+## 🎓 Learning Outcomes
 
+- Practiced rapid prototyping and teamwork under a 72-hour deadline  
+- Designed inclusive UI/UX for real-world legal challenges  
+- Strengthened Agile collaboration and pitching skills 
+
+---
 ## 🧑‍💻 Team & Track
 
 - **Team:** SynchroTech
